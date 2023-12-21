@@ -1,3 +1,3 @@
-# Basic 2D Pool written in C using SDL2
+# Basic 2D Pool written in C++ using SDL2
 
-A personal project whose goal is getting comfortable with C again and creating something fun.
+A basic game of an 8-ball pool where the power and aim are determined with an option for upgrades and an AI mode. 
